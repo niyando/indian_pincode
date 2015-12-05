@@ -13,8 +13,6 @@ Gem::Specification.new do |s|
   s.summary       = %s(Gem to identify indian pincodes)
   s.homepage      = 'https://github.com/niyando/indian_pincode'
   s.license       = 'MIT'  
-  s.files = [
-    "lib/indian_pincode.rb"
-  ]
+  s.files         = `git ls-files`.split($RS)
   s.require_paths = ["lib"]
 end
