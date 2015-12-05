@@ -1,6 +1,6 @@
 # IndianPincode [![Gem Version](https://badge.fury.io/rb/indian_pincode.svg)](https://badge.fury.io/rb/indian_pincode)
 
-Simple gem to get city, district, state and post office name for a given pin code. 
+Simple gem to get city, district, state and post office name for a given pin code.  
 Bundled with yaml data.
 
 ## Installation
